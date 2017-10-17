@@ -32,6 +32,6 @@ Hoito
 Lievä
 """""
 - Prednisoloni tipat 1 x 8 ja annoslasku kahdella tipalla viikoittain
-- Prednisoloni 5 mg/g yöksi 4 viikon ajan
+- Prednisoloni 5 mg/g silmävoide yöksi 4 viikon ajan
 - Tropikamidi tipat 1 x 3 - viikon ajan
 
