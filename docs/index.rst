@@ -1,8 +1,10 @@
+###########
 Silmätaudit
-===========
+###########
 
+********************
 Kohonnut silmänpaine
---------------------
+********************
 
 .. mermaid::
 
@@ -22,41 +24,40 @@ Kohonnut silmänpaine
       Bc -->|"Paine koholla"| Bb
       end
 
+*****************
 Värikalvotulehdus
------------------
+*****************
 
-.. mermaid::
+Oireet
+======
 
-   graph TD
-      subgraph Hoito
-      Da("Lievä</br>
-   Prednisoloni tipat 1 x 8 ja annoslasku kahdella tipalla viikoittain</br>
-   Tropikamidi tipat 1 x 3 - viikon ajan</br>
-   Prednisoloni 5 mg/g yöksi 4 viikon ajan") --- Daa(Seurantakäynti 4 viikon kuluttua)
-      end
-      subgraph Löydökset
-         Ca(Sidekalvo) --- Caa(Sarveiskalvoa reunustava verestys)
-         Cb(Sarveiskalvo)
-         Cba(Pinnallinen vaurio) --> Cbaa(Fluoreseiinivärjäytyminen)
-         Cbb(Väliaineen tulehdus) --> Cbba(Sarveiskalvon sameus)
-         Cbc(Descementinkalvon poimut) --> Cbca(Merkittävä tulehdus?)
-         Cbd(Sisäpinnan presipitaatit) --> Cbda(Herpesiriitti?)
-         Cb --- Cba
-         Cb --- Cbb
-         Cb --- Cbc
-         Cb --- Cbd
-         Cc(Etukammio)
-         Cca(Solut)
-         Ccb(Valotie)
-         Cc --- Cca
-         Cc --- Ccb
-         Cd(Lasiaistila) --- Cda(Ei soluja)
-         Ce(Näköhermo) --- Cea(Normaali)
-         Cf(Verkkokalvo) --- Cfa(Normaali</br>Ei retiniittiä)
-      end
-      subgraph Oireet
-         Ba(Kipu)
-         Bb(Punoitus)
-         Bc(Valonarkuus)
-         Bd(Näkö heikentynyt)
-      end
+- Kipu
+- Punoitus
+- Valonarkuus
+- Näkö heikentynyt
+
+Löydökset
+=========
+
+- Sidekalvo
+  - Punoitus sarveiskalvon reunaa kiertäen
+- Sarveiskalvo
+  - Tartunta
+  - Pinnallinen vaurio
+  - Väliaineen sameus
+  - Sisäkalvopoimut (Descementinkalvo)
+  - Sisäpinnan presipitaatit (herpes?)
+- Etukammio
+  - Solut
+  - Valotie
+  - Alaosan märkäkertymä (hypopyon)
+
+Hoito
+=====
+
+Lievä
+-----
+- Prednisoloni tipat 1 x 8 ja annoslasku kahdella tipalla viikoittain
+- Prednisoloni 5 mg/g yöksi 4 viikon ajan
+- Tropikamidi tipat 1 x 3 - viikon ajan
+
