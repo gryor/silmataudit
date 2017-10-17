@@ -3,7 +3,9 @@ Silmätaudit
 
 Kohonnut silmänpaine
 --------------------
+
 .. mermaid::
+
    graph TD
       A((Silmänpaine)) -->|yli 40 mmHg| Ba
       A -->|yli 30 mmHg| C(<strong>Ganfort</strong> 1 x 1</br><strong>Azopt</strong> 1 x 1</br><strong>Alphagan</strong> 1 x 1)
