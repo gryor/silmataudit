@@ -3,7 +3,7 @@ Silmätaudit
 ###########
 
 .. toctree::
-  :titlesonly:
+  :hidden:
 
   silmanpaine
   varikalvotulehdus
