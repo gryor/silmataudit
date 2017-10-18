@@ -3,7 +3,6 @@ Silmätaudit
 ###########
 
 .. toctree::
-  :hidden:
   :glob:
 
   *
