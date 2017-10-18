@@ -4,6 +4,6 @@ Silmätaudit
 
 .. toctree::
   :hidden:
+  :glob:
 
-  silmanpaine
-  varikalvotulehdus
+  
