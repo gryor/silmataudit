@@ -25,22 +25,53 @@ Silmänpaine
 Lääkehoito
 **********
 
-1. Prostaglandiinianalogit
+.. note::
+  Annostukset ovat osassa valmisteista suuntaa antavia
 
-  - Bimatoprosti
-  - Latanoprosti
-  - Tafluprosti
-  - Travoprosti
 
-2. Beetasalpaajat ja yhdistelmät
+#. **Prostaglandiinianalogit** 1 x 1 iltaisin
 
-  - Betaksololi
-  - Timololi
-  - Timololi yhdistelmät
+   - Bimatoprosti
+   - Latanoprosti
+   - Tafluprosti
+   - Travoprosti
 
-3. Hiilihappoanhydraasin estäjät
+#. **Beetasalpaajat ja yhdistelmät** 1 x 1-2, annostus vaihtelee
 
-  -
+   - Betaksololi 1 x 2
+   - Timololi
+   - Timololi yhdistelmät
 
-4. Sympatomimeetit
-5. Parasympatomimeetit
+#. **Hiilihappoanhydraasin estäjät**
+
+   - Asetatsoliamidi 250 mg ½-2 x 1-2
+     - Akuutissa korkeassa silmänpaineessa 500 mg ja sitten 125-250 mg 4 tunnin välein
+   - Brintsolamidi 1 x 2-3
+   - Brintsolamidi ja yhdistelmät 1 x 2
+   - Dortsolamidi 1 x 3
+
+#. **Sympatomimeetit**
+
+   - Apraklonidiini 1 x 3
+   - Brimonidiini 1 x 2
+
+#. **Parasympatomimeetit**
+
+   - Pilokarpiini 2 x 3
+   - Asetyylikoliini
+
+
+************************
+Värikalvoreikä laserilla
+************************
+
+
+
+
+********************************
+Kammiokulman käsittely laserilla
+********************************
+
+
+
+
