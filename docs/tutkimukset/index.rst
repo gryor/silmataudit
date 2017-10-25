@@ -1,0 +1,9 @@
+###########
+Tutkimukset
+###########
+
+.. toctree::
+  :glob:
+
+  *
+

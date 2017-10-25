@@ -1,0 +1,9 @@
+############
+Toimenpiteet
+############
+
+.. toctree::
+  :glob:
+
+  *
+
