@@ -24,6 +24,7 @@ Molemmat silmät pitää tutkia.
 
 .. toctree::
   :glob:
+  :maxdepth: 2
 
+  */index
   *
-
