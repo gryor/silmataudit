@@ -7,6 +7,7 @@ Silmälasien määrittäminen
 Skiaskopia
 ********
 
+* Tutkittajalla taittovirhe korjattuna
 * Mustuainen laajennettuna
 * +1,50 tutkimuslinssi (käden mitta 1 / 0,67 m ~ 1,5 D)
 * Tutkittavalla katse etäälle
@@ -38,12 +39,9 @@ Skiaskopia
 Kaksi vastausta ja niiden muuntaminen toisikseen
 ================================================
 
-Kaava on `(kulma + 90) modulo 180` ja sylinterilinssin etumerkki vaihtuu
-
-Toinen vaihtoehto on
-  - Vähentää 90 astetta, jos kulma on 90 astetta tai enemmän
-  - Lisätä 90 astetta, jos kulma on 90 astetta tai alle
-  - Sylinterin etumerkki vaihtuu
+Pallotaittovoima = Pallotaittovoima + Lieriötaittovoima
+Lieriötaittovoima = -Lieriötaittovoima
+Kulma = (Kulma + 90) modulo 180
 
 
 Kumpi on oikea vastaus?
@@ -51,11 +49,11 @@ Kumpi on oikea vastaus?
 
 - **Silmäkääkäri** määrää **+ sylinterin**
 
-  - Potilaan kokema lasivahvuus (subjektiivinen) määrittyy herkemmin (valittaa herkemmin väärästä tuloksesta)
+  - Myötäliike on helpompi tunnistaa + sylinterillä käsin refraktoidessa
 
 - **Optikko** määrää **- sylinterin**
 
-  - Miinuslasi on ohuempi eli näyttää paremmalta
+  - Kone antaa - sylinterin
 
 - **Oikeasti ei mitään väliä**
 
