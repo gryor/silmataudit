@@ -40,7 +40,9 @@ Kaksi vastausta ja niiden muuntaminen toisikseen
 ================================================
 
 Pallotaittovoima = Pallotaittovoima + Lieriötaittovoima
+
 Lieriötaittovoima = -Lieriötaittovoima
+
 Kulma = (Kulma + 90) modulo 180
 
 
