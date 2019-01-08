@@ -8,7 +8,7 @@ Skiaskopia
 ********
 
 * Tutkittajalla taittovirhe korjattuna
-* Mustuainen laajennettuna
+* Lapsilla mustuainen laajennettuna
 * +1,50 tutkimuslinssi (käden mitta 1 / 0,67 m ~ 1,5 D)
 * Tutkittavalla katse etäälle
 * **Käännä valo aina heijasteen suuntaiseksi**
