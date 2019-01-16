@@ -7,7 +7,7 @@ Silmälasien määrittäminen
 Skiaskopia
 ********
 
-* Tutkittajalla taittovirhe korjattuna
+* Tutkijalla oma taittovirhe korjattuna
 * Lapsilla mustuainen laajennettuna
 * +1,50 tutkimuslinssi (käden mitta 1 / 0,67 m ~ 1,5 D)
 * Tutkittavalla katse etäälle
